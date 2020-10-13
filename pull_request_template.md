@@ -16,11 +16,11 @@ Checklist:
 * Is everything clean?
 
 Agree
-[ ] I feel confident that this pull request adds value and lives up to best practises.
+- [ ] I feel confident that this pull request adds value and lives up to best practises.
 
 I have considered the implications of:
 * [ ] GDPR
 * [ ] Security
 * [ ] Test
 
-[ ] The readme has been updated.
+- [ ] The readme has been updated.
