@@ -4,7 +4,7 @@ Read the [guidelines for creating/reviewing a PR](https://obviux.atlassian.net/w
 
 
 Checklist:
-* Is the author/team obvius?
+* Is the author/team obviux?
 * Is it clear what Jira issue(s) this PR belongs to?
 * What does this PR do?
 * Is the code readable?
